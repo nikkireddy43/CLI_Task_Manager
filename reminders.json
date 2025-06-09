@@ -1,0 +1,30 @@
+[
+  {
+    "task": "Finish project report",
+    "due": "2025-06-11",
+    "priority": "High",
+    "tag": "work",
+    "done": false
+  },
+  {
+    "task": "Buy groceries",
+    "due": "2025-06-10",
+    "priority": "Medium",
+    "tag": "personal",
+    "done": false
+  },
+  {
+    "task": "Call mom",
+    "due": "2025-06-12",
+    "priority": "Low",
+    "tag": "personal",
+    "done": true
+  },
+  {
+    "task": "Team meeting at 5 PM",
+    "due": "2025-06-10",
+    "priority": "High",
+    "tag": "work",
+    "done": false
+  }
+]
